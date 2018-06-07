@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">rssheap</string>
+    <string name="menu_settings">Settings</string>
+    <string name="app_id">685201244886528</string>
+
+    <!-- Fontawesome Icons -->
+    <string name="icon_week">&#xf073;</string>
+    <string name="icon_month">&#xf133;</string>
+    <string name="icon_votes">&#xf087;</string>
+    <string name="icon_untagged">&#xf02c;</string>
+    <string name="icon_favorites">&#xf006;</string>
+    <string name="icon_feed">&#xf09e;</string>
+    <string name="icon_folder">&#xf114;</string>
+    <string name="icon_plus">&#xf067;</string>
+    <string name="icon_down">&#xf107;</string>
+    <string name="icon_up">&#xf106;</string>
+    <string name="icon_eye">&#xf06e;</string>
+    <string name="icon_signout">&#xf08b;</string>
+    <string name="icon_voteup">&#xf087;</string>
+    <string name="icon_voteup_on">&#xf164;</string>
+    <string name="icon_votedown">&#xf088;</string>
+    <string name="icon_votedown_on">&#xf165;</string>
+    <string name="icon_favorites_on">&#xf005;</string>
+    <string name="icon_facebook">&#xf09a;</string>
+    <string name="icon_twitter">&#xf099;</string>
+    <string name="icon_google_plus">&#xf0d5;</string>
+    <string name="icon_linkedin">&#xf0e1;</string>
+    <string name="icon_android">&#xf17b;</string>
+    <string name="icon_tags">&#xf02c;</string>
+    <string name="icon_tag">&#xf02b;</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_article_web">ArticleWebActivity</string>
+    <string name="title_activity_tags">TagsActivity</string>
+
+</resources>

@@ -1,0 +1,77 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.rssheap.ArticleActivity" >
+
+    <item
+        android:id="@+id/action_next"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Next Article"/>
+
+    <item
+        android:id="@+id/action_prev"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Previous Article"/>
+
+    <item
+        android:id="@+id/action_vote_up"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Vote Up"/>
+    
+    <item
+        android:id="@+id/action_vote_down"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Vote Down"/>
+    
+    <item
+        android:id="@+id/action_add_to_favorites"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Add to favorites"/>
+    
+    <item
+        android:id="@+id/action_remove_from_favorites"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Remove from favorites"/>
+    
+    <item
+        android:id="@+id/action_flag"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Flag as not related"/>
+
+    <item
+        android:id="@+id/action_share_on_twitter"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Twitter"/>
+    
+    <item
+        android:id="@+id/action_share_on_facebook"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Facebook"/>
+    
+    <item
+        android:id="@+id/action_share_on_google"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Google+"/>
+    
+    <item
+        android:id="@+id/action_share_on_linkedin"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Linkedin"/>
+    
+    <item
+        android:id="@+id/action_share_on_other"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Other"/>
+
+</menu>

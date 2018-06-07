@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.rssheap.TagsActivity"
+    android:descendantFocusability="blocksDescendants" >
+
+    <ListView 
+	    android:id="@+id/lvTags"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content" 
+	    android:choiceMode="multipleChoice" 
+	    android:listSelector="@drawable/list_selector"
+        android:groupIndicator="@android:color/transparent"
+        android:background="#FFFFFF" 
+        android:divider="#eeeeee"
+ 		android:dividerHeight="1.0sp" /> 
+
+</LinearLayout>

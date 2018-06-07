@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:drawable="@drawable/btn_twitter_login"
+        android:id="@+id/t_bg" />
+    <item 
+        android:top="0dp" android:left="0dp">
+        <bitmap android:src="@drawable/icon_twitter"
+          android:gravity="left" />
+    </item>
+</layer-list>
