@@ -14,8 +14,8 @@ public class TwitterUtil {
  
     public TwitterUtil() {
         ConfigurationBuilder configurationBuilder = new ConfigurationBuilder();
-        configurationBuilder.setOAuthConsumerKey("8Ub6cQs8GkMuMHp6UUMyig2Rw");
-        configurationBuilder.setOAuthConsumerSecret("5jkHuYwHF6Tkd1A6Wc67ovrUlmcXa4OrhfCGMyVkRAUkd8ztsj");
+        configurationBuilder.setOAuthConsumerKey("");
+        configurationBuilder.setOAuthConsumerSecret("");
         twitter4j.conf.Configuration configuration = configurationBuilder.build();
         twitterFactory = new TwitterFactory(configuration);
         twitter = twitterFactory.getInstance();
